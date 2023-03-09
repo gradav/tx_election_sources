@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>The school districts feature class is used in the RedAppl, DistrictViewer, and other Texas Legislative Council mapping and reporting applications.The district data comes from the Texas Legislative Council who publishes the data at  https://data.capitol.texas.gov/dataset/school-districts.</abstract>
+            <purpose>The map includes school districts for Texas public school for school year 2022-2023.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Districts</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This map was updated by the Texas Education Agency in February 2022.
+
+It is for informational purposes only and has not been
+prepared for, nor is it suitable for, legal or engineering purposes.  Positions shown are based on information
+available at the time the map data was last updated.  They are approximations, and are not the
+product of an on-the-ground survey.</useconst>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
